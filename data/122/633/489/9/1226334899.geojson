@@ -47,7 +47,7 @@
         "wk:page":"Talcam%C3%A1vida"
     },
     "wof:country":"CL",
-    "wof:geomhash":"eb6432505076a50788fff5987f8f769b",
+    "wof:geomhash":"ccc28b0e804098b649ea377d33b37db5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -73,5 +73,5 @@
     -72.90756999999998,
     -37.16126
 ],
-  "geometry": {"coordinates":[-72.90756999999998,-37.16126],"type":"Point"}
+  "geometry": {"coordinates":[-72.90757,-37.16126],"type":"Point"}
 }

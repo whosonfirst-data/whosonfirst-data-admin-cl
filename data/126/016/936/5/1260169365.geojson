@@ -47,7 +47,7 @@
         "wk:page":"Quella"
     },
     "wof:country":"CL",
-    "wof:geomhash":"5c3d9a6f070770244f8e7640412c9451",
+    "wof:geomhash":"e544cc5f9ef9f4524f94f6424e307956",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -73,5 +73,5 @@
     -72.08568000000002,
     -36.0545
 ],
-  "geometry": {"coordinates":[-72.08568000000002,-36.0545],"type":"Point"}
+  "geometry": {"coordinates":[-72.08568,-36.0545],"type":"Point"}
 }

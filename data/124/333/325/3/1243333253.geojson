@@ -53,7 +53,7 @@
         "wk:page":"Codpa"
     },
     "wof:country":"CL",
-    "wof:geomhash":"ecf089859b00cd4bc80cdc47e90790f0",
+    "wof:geomhash":"e8191e7c07ecff7fa1a27ad7ffdd73a1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,5 +79,5 @@
     -69.74318000000001,
     -18.83327
 ],
-  "geometry": {"coordinates":[-69.74318000000001,-18.83327],"type":"Point"}
+  "geometry": {"coordinates":[-69.74318,-18.83327],"type":"Point"}
 }

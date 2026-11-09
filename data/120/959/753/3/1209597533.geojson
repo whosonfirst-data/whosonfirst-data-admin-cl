@@ -44,7 +44,7 @@
         "wk:page":"Chucuyo"
     },
     "wof:country":"CL",
-    "wof:geomhash":"1526f2b6a4368c2643423101a1c2c240",
+    "wof:geomhash":"2bb1a4be73ad73d88cba12c1ba0bcad3",
     "wof:hierarchy":[
         {
             "country_id":85633057,
@@ -67,5 +67,5 @@
     -69.25,
     -18.0
 ],
-  "geometry": {"coordinates":[-69.25,-18.0],"type":"Point"}
+  "geometry": {"coordinates":[-69.25,-18],"type":"Point"}
 }

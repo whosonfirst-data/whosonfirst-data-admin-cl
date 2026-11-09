@@ -47,7 +47,7 @@
         "gn:id":3873241
     },
     "wof:country":"CL",
-    "wof:geomhash":"862e7427744be968261e8950fb85c9bb",
+    "wof:geomhash":"cfd38d0d1064ece63d0b1494245b7b0f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -73,5 +73,5 @@
     -71.10524000000002,
     -34.49957
 ],
-  "geometry": {"coordinates":[-71.10524000000002,-34.49957],"type":"Point"}
+  "geometry": {"coordinates":[-71.10524,-34.49957],"type":"Point"}
 }

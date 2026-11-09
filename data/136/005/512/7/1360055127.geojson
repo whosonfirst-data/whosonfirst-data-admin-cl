@@ -51,7 +51,7 @@
         "wk:page":"Chitita"
     },
     "wof:country":"CL",
-    "wof:geomhash":"c6a75cbf495508c5bb47c88ddc5b800f",
+    "wof:geomhash":"917d01b0036146f83e521dd7816b1800",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -77,5 +77,5 @@
     -69.68609000000001,
     -18.82682
 ],
-  "geometry": {"coordinates":[-69.68609000000001,-18.82682],"type":"Point"}
+  "geometry": {"coordinates":[-69.68609,-18.82682],"type":"Point"}
 }

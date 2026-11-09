@@ -53,7 +53,7 @@
         "wk:page":"Cabeceras"
     },
     "wof:country":"CL",
-    "wof:geomhash":"16f1552ad47a222c05c8e33b7fbebfdd",
+    "wof:geomhash":"9150da63fc34271f57aabc7be5ffe823",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,5 +79,5 @@
     -71.98664000000002,
     -34.61444
 ],
-  "geometry": {"coordinates":[-71.98664000000002,-34.61444],"type":"Point"}
+  "geometry": {"coordinates":[-71.98664,-34.61444],"type":"Point"}
 }

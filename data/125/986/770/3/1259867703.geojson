@@ -47,7 +47,7 @@
         "wk:page":"Abr%C3%A1nquil"
     },
     "wof:country":"CL",
-    "wof:geomhash":"2db25559b32b9659829a169d649ba6f4",
+    "wof:geomhash":"fb24d0a99b8962263b64afa6b0b9937b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -73,5 +73,5 @@
     -71.54838000000002,
     -35.74655999999999
 ],
-  "geometry": {"coordinates":[-71.54838000000002,-35.74655999999999],"type":"Point"}
+  "geometry": {"coordinates":[-71.54838,-35.74656],"type":"Point"}
 }

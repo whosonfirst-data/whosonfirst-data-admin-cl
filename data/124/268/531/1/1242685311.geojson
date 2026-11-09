@@ -49,7 +49,7 @@
         "wk:page":"Lasana"
     },
     "wof:country":"CL",
-    "wof:geomhash":"a6862c24a86dd3b84ff5a18ea64da562",
+    "wof:geomhash":"5bbf66aacce35dfc8a4f85f4fa987a0e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,5 +75,5 @@
     -68.62550999999999,
     -22.26759
 ],
-  "geometry": {"coordinates":[-68.62550999999999,-22.26759],"type":"Point"}
+  "geometry": {"coordinates":[-68.62551,-22.26759],"type":"Point"}
 }

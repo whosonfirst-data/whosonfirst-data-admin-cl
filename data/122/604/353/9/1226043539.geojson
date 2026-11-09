@@ -83,7 +83,7 @@
         "wk:page":"Lumaco"
     },
     "wof:country":"CL",
-    "wof:geomhash":"a938a7ebf4099a9e11b1444d209f424e",
+    "wof:geomhash":"b471645d9873a40680aefaf933db36c0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -109,5 +109,5 @@
     -72.90550999999998,
     -38.16485
 ],
-  "geometry": {"coordinates":[-72.90550999999998,-38.16485],"type":"Point"}
+  "geometry": {"coordinates":[-72.90551,-38.16485],"type":"Point"}
 }

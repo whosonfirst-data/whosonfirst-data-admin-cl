@@ -49,7 +49,7 @@
         "wk:page":"Villa_Tehuelches"
     },
     "wof:country":"CL",
-    "wof:geomhash":"19c74517f23fc8eda3aa02a76efd4691",
+    "wof:geomhash":"353461eceb2fbe23d207c9e50d3fe1d8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,5 +75,5 @@
     -71.41443000000002,
     -52.42725
 ],
-  "geometry": {"coordinates":[-71.41443000000002,-52.42725],"type":"Point"}
+  "geometry": {"coordinates":[-71.41443,-52.42725],"type":"Point"}
 }

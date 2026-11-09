@@ -50,7 +50,7 @@
         "wk:page":"La_Patag%C3%BCilla"
     },
     "wof:country":"CL",
-    "wof:geomhash":"770dab1308d2b40f00ee6e30f0df1e63",
+    "wof:geomhash":"1de7c39d0335bd0b947e3245686b427c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -76,5 +76,5 @@
     -71.37631999999998,
     -34.67312
 ],
-  "geometry": {"coordinates":[-71.37631999999998,-34.67312],"type":"Point"}
+  "geometry": {"coordinates":[-71.37632,-34.67312],"type":"Point"}
 }

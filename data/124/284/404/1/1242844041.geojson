@@ -50,7 +50,7 @@
         "wk:page":"Gua%C3%B1acagua"
     },
     "wof:country":"CL",
-    "wof:geomhash":"f59c1f278154265b99b2b14fe927670d",
+    "wof:geomhash":"de66ea03dd3b2bbf12013d77febff612",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -76,5 +76,5 @@
     -69.71186999999999,
     -18.8177
 ],
-  "geometry": {"coordinates":[-69.71186999999999,-18.8177],"type":"Point"}
+  "geometry": {"coordinates":[-69.71187,-18.8177],"type":"Point"}
 }

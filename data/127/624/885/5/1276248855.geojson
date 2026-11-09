@@ -44,7 +44,7 @@
         "wk:page":"El_Guindo"
     },
     "wof:country":"CL",
-    "wof:geomhash":"07f7d04b779ab38e96d4fb6193a8def8",
+    "wof:geomhash":"6fbfff97a732a7c995c6914d17f265b0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -70,5 +70,5 @@
     -71.29914000000002,
     -34.66724
 ],
-  "geometry": {"coordinates":[-71.29914000000002,-34.66724],"type":"Point"}
+  "geometry": {"coordinates":[-71.29914,-34.66724],"type":"Point"}
 }

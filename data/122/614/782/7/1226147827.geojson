@@ -47,7 +47,7 @@
         "wk:page":"Potrerillos%2C_Chile"
     },
     "wof:country":"CL",
-    "wof:geomhash":"0268a16bba7e649101e94807a1249dd0",
+    "wof:geomhash":"4d910397b4b7af7372021338ddd52e1a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -73,5 +73,5 @@
     -69.48402,
     -26.43564000000001
 ],
-  "geometry": {"coordinates":[-69.48402,-26.43564000000001],"type":"Point"}
+  "geometry": {"coordinates":[-69.48402,-26.43564],"type":"Point"}
 }

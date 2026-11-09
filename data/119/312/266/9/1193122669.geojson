@@ -44,7 +44,7 @@
         "wk:page":"El_Durazno,_O%27Higgins"
     },
     "wof:country":"CL",
-    "wof:geomhash":"37ec9b2bbea14c18ce8255876032b4d0",
+    "wof:geomhash":"80a4675cbfdc12b9d56d8202aea106b3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -70,5 +70,5 @@
     -71.35448000000002,
     -34.15246
 ],
-  "geometry": {"coordinates":[-71.35448000000002,-34.15246],"type":"Point"}
+  "geometry": {"coordinates":[-71.35448,-34.15246],"type":"Point"}
 }

@@ -58,7 +58,7 @@
         "gn:id":3881160
     },
     "wof:country":"CL",
-    "wof:geomhash":"f782e80b785bb68cf30b3bf447081618",
+    "wof:geomhash":"3c497394cb13a9d5c739b7a2d9517ed6",
     "wof:hierarchy":[
         {
             "country_id":85633057,
@@ -81,5 +81,5 @@
     -68.98895999999999,
     -19.40065
 ],
-  "geometry": {"coordinates":[-68.98895999999999,-19.40065],"type":"Point"}
+  "geometry": {"coordinates":[-68.98896,-19.40065],"type":"Point"}
 }

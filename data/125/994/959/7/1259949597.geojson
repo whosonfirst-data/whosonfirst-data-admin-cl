@@ -56,7 +56,7 @@
         "wk:page":"Molinos,_Chile"
     },
     "wof:country":"CL",
-    "wof:geomhash":"8ab35896d30f9cb8ff740bcd133e36e4",
+    "wof:geomhash":"1ace304aef1550c395eee1522a42d7a6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -82,5 +82,5 @@
     -69.94556999999999,
     -18.38206
 ],
-  "geometry": {"coordinates":[-69.94556999999999,-18.38206],"type":"Point"}
+  "geometry": {"coordinates":[-69.94557,-18.38206],"type":"Point"}
 }

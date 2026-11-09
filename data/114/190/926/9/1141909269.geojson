@@ -712,7 +712,7 @@
     "wof:concordances":{},
     "wof:country":"CL",
     "wof:created":1499131057,
-    "wof:geomhash":"51cab3fc4efa3e376ba23d2e3d3562c9",
+    "wof:geomhash":"a970fccdfde9dcd2713b0db0de8637ca",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -738,5 +738,5 @@
     -72.35998661465987,
     -37.46000160853185
 ],
-  "geometry": {"coordinates":[-72.35998661465987,-37.46000160853185],"type":"Point"}
+  "geometry": {"coordinates":[-72.359987,-37.460002],"type":"Point"}
 }

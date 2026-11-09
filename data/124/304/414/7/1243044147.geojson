@@ -47,7 +47,7 @@
         "wk:page":"Ignao"
     },
     "wof:country":"CL",
-    "wof:geomhash":"e2659531efe87af9c6e73055c6b375c9",
+    "wof:geomhash":"58ce1d5e9a15b2554636d4c78e2819f5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -73,5 +73,5 @@
     -72.55575999999998,
     -40.33093
 ],
-  "geometry": {"coordinates":[-72.55575999999998,-40.33093],"type":"Point"}
+  "geometry": {"coordinates":[-72.55576,-40.33093],"type":"Point"}
 }

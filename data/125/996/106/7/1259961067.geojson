@@ -53,7 +53,7 @@
         "wk:page":"Rari"
     },
     "wof:country":"CL",
-    "wof:geomhash":"3918071d977d740c48601fa0b06d52e6",
+    "wof:geomhash":"6469deee87a6334ea04ede95893e37a4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,5 +79,5 @@
     -71.46455999999998,
     -35.76657
 ],
-  "geometry": {"coordinates":[-71.46455999999998,-35.76657],"type":"Point"}
+  "geometry": {"coordinates":[-71.46456,-35.76657],"type":"Point"}
 }

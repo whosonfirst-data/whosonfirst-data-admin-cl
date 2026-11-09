@@ -44,7 +44,7 @@
         "wk:page":"La_Dehesa"
     },
     "wof:country":"CL",
-    "wof:geomhash":"5db73e3d32e4be06eab91bfeceb930ec",
+    "wof:geomhash":"b64ef8596c7e1a3dd5f5e089c7da1672",
     "wof:hierarchy":[
         {
             "country_id":85633057,
@@ -67,5 +67,5 @@
     -70.53589000000002,
     -33.35241
 ],
-  "geometry": {"coordinates":[-70.53589000000002,-33.35241],"type":"Point"}
+  "geometry": {"coordinates":[-70.53589,-33.35241],"type":"Point"}
 }

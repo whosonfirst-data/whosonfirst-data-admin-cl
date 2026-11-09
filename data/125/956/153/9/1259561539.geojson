@@ -86,7 +86,7 @@
         "wk:page":"Empedrado,_Chile"
     },
     "wof:country":"CL",
-    "wof:geomhash":"c68182f42fb7bb2655bf6971166cff16",
+    "wof:geomhash":"21fe32ab58d92e86b7130f2b03f44380",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -112,5 +112,5 @@
     -72.2776,
     -35.59157000000001
 ],
-  "geometry": {"coordinates":[-72.27760000000001,-35.59157000000001],"type":"Point"}
+  "geometry": {"coordinates":[-72.2776,-35.59157],"type":"Point"}
 }

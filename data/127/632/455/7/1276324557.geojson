@@ -50,7 +50,7 @@
         "wk:page":"La_Compa%C3%B1%C3%ADa"
     },
     "wof:country":"CL",
-    "wof:geomhash":"7905d49fd9a0c4f3032e24d6682f98eb",
+    "wof:geomhash":"f5fa5c01a06d96f39af11bae366a493e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -76,5 +76,5 @@
     -70.68278000000002,
     -34.08087
 ],
-  "geometry": {"coordinates":[-70.68278000000002,-34.08087],"type":"Point"}
+  "geometry": {"coordinates":[-70.68278,-34.08087],"type":"Point"}
 }

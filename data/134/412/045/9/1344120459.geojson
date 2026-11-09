@@ -56,7 +56,7 @@
         "wk:page":"Crucero"
     },
     "wof:country":"CL",
-    "wof:geomhash":"5915536483eba835790540e22351ec19",
+    "wof:geomhash":"5346c1579b1518138b6c8adf1b4d9c68",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -82,5 +82,5 @@
     -72.78763000000002,
     -40.41874
 ],
-  "geometry": {"coordinates":[-72.78763000000002,-40.41874],"type":"Point"}
+  "geometry": {"coordinates":[-72.78763,-40.41874],"type":"Point"}
 }

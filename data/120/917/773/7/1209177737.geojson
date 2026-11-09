@@ -50,7 +50,7 @@
         "wk:page":"Pishuinco"
     },
     "wof:country":"CL",
-    "wof:geomhash":"a815bb5e16cb9f374447f10096a9e015",
+    "wof:geomhash":"1f8d94a76cf58efd43ef727e03a59f42",
     "wof:hierarchy":[
         {
             "country_id":85633057,
@@ -73,5 +73,5 @@
     -73.05631,
     -39.80569000000001
 ],
-  "geometry": {"coordinates":[-73.05631,-39.80569000000001],"type":"Point"}
+  "geometry": {"coordinates":[-73.05631,-39.80569],"type":"Point"}
 }
