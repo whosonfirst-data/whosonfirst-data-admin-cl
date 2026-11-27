@@ -1,0 +1,75 @@
+{
+  "id": 9895092748,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.97949,-37.40421,-71.97949,-37.40421",
+    "geom:latitude":-37.40421,
+    "geom:longitude":-71.97949,
+    "gn:population":131936,
+    "iso:country":"CL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11947989: name \"Villa Mercedes\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11947989"
+        },
+        {
+            "citation":"GeoNames populated place 11947989: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11947989"
+        },
+        {
+            "citation":"GeoNames populated place 11947989: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11947989"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102063151 (B\u00edo-B\u00edo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633057,
+        85682155,
+        102063151,
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11947989
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"c28e787235fd77f6e87bf58a1ae99e76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063151,
+            "locality_id":9895092748,
+            "region_id":85682155
+        }
+    ],
+    "wof:id":9895092748,
+    "wof:lastmodified":1795747355,
+    "wof:name":"Villa Mercedes",
+    "wof:parent_id":102063151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.97949,
+    -37.40421,
+    -71.97949,
+    -37.40421
+],
+  "geometry": {"coordinates":[-71.97949,-37.40421],"type":"Point"}
+}
